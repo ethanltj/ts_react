@@ -11,7 +11,7 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
-        <Hello message = "blotbj to be No.1"/>
+        <Hello message = "blotbj Hello"/>
         <a
           className="App-link"
           href="https://reactjs.org"
