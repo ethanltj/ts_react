@@ -7,7 +7,7 @@ const LikeButton: React.FC = () => {
             {obj.like} 👍
         </button>
         <button onClick = {() => setObj({like: obj.like , on: !obj.on})}>
-            {obj.on ? 'ON' : 'OFF'}
+            {obj.on ? 'ON 😊' : 'OFF 😭'}
         </button>
         </>
     )
